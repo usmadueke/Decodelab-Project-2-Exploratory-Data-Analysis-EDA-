@@ -194,3 +194,6 @@ The lower revenue recorded in 2025 may be attributed to the fact that the datase
 - The return rate is also significant at 20.58%, meaning nearly another fifth of all orders were returned after purchase. This could indicate product quality concerns, customer dissatisfaction, inaccurate product descriptions, or delivery-related issues.
 - Only 19.25% of orders were marked as Delivered, which is lower than both the cancellation and return percentages. This suggests that a substantial proportion of potential revenue may not be fully realized.
 - Nearly 20% of orders remain pending, indicating possible delays in order processing, inventory availability, or logistics operations.     
+
+## Trend Insights
+- Monthly performance trends revealed that **June** recorded the highest number of orders (147) which translated to the month with the highest revenue ($170,616.13), making it the busiest sales month. June represents the peak demand period, while **January** recorded the highest **Average Order Value** ($1,172.77).
