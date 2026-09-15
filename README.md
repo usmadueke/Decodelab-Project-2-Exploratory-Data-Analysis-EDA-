@@ -67,3 +67,24 @@ The dataset was reviewed to understand:
 - Categorical and numerical fields
 
 This helped determine the most appropriate analytical approach for the EDA process.
+
+**2. Descriptive Statistics**
+Basic statistical measures were calculated to summarize the dataset.
+
+**Measures Analyzed**
+- Total Orders
+- Total Revenue
+- Average Order Value **(Mean)**
+- Median Order Value
+- Average Unit Price
+- Product Quantities Sold
+- Average Items in Cart
+
+**Statistics Used**
+- Count
+- Sum
+- Mean
+- Median
+- Minimum Value
+- Maximum Value
+These metrics provided a general understanding of sales performance and customer purchasing behavior.
