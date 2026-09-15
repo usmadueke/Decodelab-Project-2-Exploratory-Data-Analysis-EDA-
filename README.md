@@ -38,7 +38,7 @@ The dataset contains e-commerce transaction records, including customer purchase
 **Dataset Structure**
 
 - Rows: 1200
-- Columns: 17
+- Columns: 14
 
 **Key Fields**
 
@@ -56,3 +56,13 @@ The dataset contains e-commerce transaction records, including customer purchase
 - Coupon_Code
 - Referral_Source
 - TotalPrice
+
+## 🔍 Exploratory Data Analysis Process
+
+**1. Data Familiarization**
+The dataset was reviewed to understand:
+- Available variables
+- Data types
+- Transaction structure
+- Categorical and numerical fields
+This helped determine the most appropriate analytical approach for the EDA process.
