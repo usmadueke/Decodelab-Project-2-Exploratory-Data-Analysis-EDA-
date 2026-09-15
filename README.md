@@ -19,9 +19,11 @@ The primary objectives of this project were to:
 
 ## 🛠 Tools Used
 -Microsoft Excel
+
 -Excel formulas & Functions
--Pivot Tables
--Pivot Charts
+
+-Pivot Tables 
+-Pivot Charts 
 -Descriptive Statistics
 -Conditional Formatting
 -IQR outlier analysis
