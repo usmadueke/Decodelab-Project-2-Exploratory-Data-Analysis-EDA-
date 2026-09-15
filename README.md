@@ -87,4 +87,50 @@ Basic statistical measures were calculated to summarize the dataset.
 - Median
 - Minimum Value
 - Maximum Value
+
 These metrics provided a general understanding of sales performance and customer purchasing behavior.
+
+**3. Trend Analysis**
+Sales data was analyzed to identify patterns and trends over time.
+
+**Areas Investigated**
+- Monthly Sales Trends
+- Revenue Trends
+- Order Volume Trends
+- Product Performance Trends
+
+The analysis highlighted periods of high and low sales activity and helped identify peak business periods.
+
+**4. Product Performance Analysis**
+Products were analyzed to determine:
+
+- Best-selling products
+- Highest revenue-generating products
+- Sales volume patterns
+
+This provided insight into product demand and profitability.
+
+**5. Customer Behavior Analysis**
+Customer purchasing behavior was evaluated using:
+
+- Order frequency
+- Average spending patterns
+- Items purchased per order
+
+This helped identify characteristics of customer purchasing habits.
+
+**6. Payment Method Analysis**
+Payment methods were analyzed to determine:
+
+- Most popular payment method
+- Distribution of payment options among customers
+
+The results provided insights into customer payment preferences.
+
+**7. Referral Source Analysis**
+Referral channels were examined to identify:
+
+- Most effective referral source
+- Revenue contribution by referral category
+
+This helped assess marketing channel performance.
