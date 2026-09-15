@@ -134,3 +134,20 @@ Referral channels were examined to identify:
 - Revenue contribution by referral category
 
 This helped assess marketing channel performance.
+
+**8. Coupon Usage Analysis**
+Coupon-related fields were analyzed to determine:
+
+- Frequency of coupon usage
+- Sales generated with coupons
+- Sales generated without coupons
+- Impact of promotional activities on revenue
+
+**9. Order Status Analysis**
+Order statuses were analyzed to evaluate operational performance.
+**Status Categories**
+- Delivered
+- Shipped
+- Pending
+- Returned
+- Cancelled
