@@ -1,4 +1,4 @@
-# Decodelab-Project-2-Exploratory-Data-Analysis-EDA-
+# Decodelab-Project-2-Exploratory-Data-Analysis-(EDA)
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned e-commerce dataset to uncover patterns, trends, distributions, and key business insights.
 
 ## Overview
