@@ -19,7 +19,6 @@ The primary objectives of this project were to:
 
 ## 🛠 Tools Used
 -Microsoft Excel
-
 - Excel formulas & Functions
 - Pivot Tables 
 -Pivot Charts 
