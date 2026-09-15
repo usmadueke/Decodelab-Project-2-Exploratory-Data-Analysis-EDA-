@@ -231,3 +231,28 @@ The EDA process transformed raw transactional data into actionable business insi
 - Identified outliers and exceptional transactions.
 - Evaluated customer and product performance.
 - Generated insights that informed the SQL Analysis (Project 3) and Power BI Dashboard Development (Project 4).
+
+# 🚀 Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Data Interpretation
+- Trend Analysis
+- Outlier Detection
+- Business Intelligence
+- Excel Analytics
+- Analytical Thinking
+- Data Visualization
+- Insight Generation
+
+# 📂 Repository Contents
+
+📁 Data
+   └── Cleaned Ecommerce Dataset
+
+📁 Analysis
+   └── EDA Summary
+
+📁 Visualizations
+   └── Charts and Insights
+
+📄 README.md
