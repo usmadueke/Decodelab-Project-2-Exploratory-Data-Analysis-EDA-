@@ -149,6 +149,7 @@ Coupon-related fields were analyzed to determine:
 **9. Order Status Analysis**
 
 Order statuses were analyzed to evaluate operational performance.
+
 **Status Categories**
 - Delivered
 - Shipped
@@ -160,3 +161,6 @@ Analysis focused on:
 - Distribution of order statuses
 - Percentage of cancelled orders
 - Overall fulfillment performance
+
+# 📈 Key Findings
+## Revenue Performance
