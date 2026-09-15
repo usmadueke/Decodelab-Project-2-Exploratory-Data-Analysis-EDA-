@@ -170,8 +170,13 @@ Analysis focused on:
 - **2024**: $480,235.87
 - **2025**: $231,882.85
 
-**Management Insight**: Revenue declined after 2023; strengthen retention and acquisition.
+**Management Insight**: Revenue declined by approximately 13.1% from 2023 to 2024.
+2023 contributed about 43.7% of total revenue, making it the strongest performing year.
+The lower revenue recorded in 2025 may be attributed to the fact that the dataset only covers First half of the year.
 
 ## Product Performance
-**Top Revenue Products**: Chair, Printer, Laptop 
-**Lowest Revenue Products**: Phone, Desk 
+- **Top Revenue Products**: Chair, Printer, Laptop
+- **Lowest Revenue Products**: Phone, Desk
+
+**Management Insight**: ✅ Chairs, Printers and Laptop generated the highest revenue. Chairs achieved the highest revenue partly due to the highest sales volume.
+✅ Phones and Desk generated the lowest revenue despite being a major product category. Although sold frequently, they tend to generate smaller transaction values.
