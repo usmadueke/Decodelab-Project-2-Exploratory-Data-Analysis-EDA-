@@ -199,4 +199,35 @@ The lower revenue recorded in 2025 may be attributed to the fact that the datase
 - Monthly performance trends revealed that **June** recorded the highest number of orders (147) which translated to the month with the highest revenue ($170,616.13), making it the busiest sales month. June represents the peak demand period, while **January** recorded the highest **Average Order Value** ($1,172.77).
 
 # 📊 Visualizations Created
+
 The following visualizations were used during the EDA process:
+- Revenue Trend Analysis
+- Monthly Sales Analysis
+- Product Performance Charts
+- Order Status Distribution
+- Referral Source Comparison
+- Payment Method Distribution
+- Coupon Usage Analysis
+- Outlier Identification Charts
+
+# 💡 Business Insights Generated
+The exploratory analysis provided answers to key business questions:
+
+- Which products sell the most?
+- Which products generate the highest revenue?
+- Which months produce the highest sales?
+- Which payment methods are most preferred by customers?
+- Which referral sources drive the most revenue?
+- How do coupons influence customer spending?
+- What percentage of orders are cancelled, returned, or delivered?
+- Are there any unusual sales patterns or outliers?
+
+# ✅ Project Outcome
+The EDA process transformed raw transactional data into actionable business insights.
+
+**The project successfully**:
+- Summarized key performance metrics.
+- Revealed significant trends and patterns.
+- Identified outliers and exceptional transactions.
+- Evaluated customer and product performance.
+- Generated insights that informed the SQL Analysis (Project 3) and Power BI Dashboard Development (Project 4).
