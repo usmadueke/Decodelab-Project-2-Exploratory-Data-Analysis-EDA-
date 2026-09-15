@@ -155,3 +155,8 @@ Order statuses were analyzed to evaluate operational performance.
 - Pending
 - Returned
 - Cancelled
+
+Analysis focused on:
+- Distribution of order statuses
+- Percentage of cancelled orders
+- Overall fulfillment performance
