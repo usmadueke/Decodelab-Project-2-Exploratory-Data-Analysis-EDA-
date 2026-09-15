@@ -169,3 +169,9 @@ Analysis focused on:
 - **2023**: $552,643.24
 - **2024**: $480,235.87
 - **2025**: $231,882.85
+
+**Management Insight**: Revenue declined after 2023; strengthen retention and acquisition.
+
+## Product Performance
+**Top Revenue Products**: Chair, Printer, Laptop 
+**Lowest Revenue Products**: Phone, Desk 
