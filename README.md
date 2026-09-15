@@ -32,13 +32,16 @@ The primary objectives of this project were to:
 ## 📁 Dataset Overview
 
 **Dataset Description**
+
 The dataset contains e-commerce transaction records, including customer purchases, product information, payment methods, referral sources, and order statuses.
 
 **Dataset Structure**
+
 - Rows: 1200
 - Columns: 17
 
 **Key Fields**
+
 - OrderID
 - Date
 - CustomerID
