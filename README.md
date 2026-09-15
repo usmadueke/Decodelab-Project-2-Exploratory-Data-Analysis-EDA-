@@ -28,3 +28,12 @@ The primary objectives of this project were to:
 - Exploratory Data Analysis
 - Data Validation
 - Data Visualization Techniques
+
+##📁 Dataset Overview
+
+**Dataset Description**
+The dataset contains e-commerce transaction records, including customer purchases, product information, payment methods, referral sources, and order statuses.
+
+**Dataset Structure**
+- Rows: 1200
+- Columns: 17
