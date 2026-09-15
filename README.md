@@ -29,7 +29,7 @@ The primary objectives of this project were to:
 - Data Validation
 - Data Visualization Techniques
 
-##📁 Dataset Overview
+## 📁 Dataset Overview
 
 **Dataset Description**
 The dataset contains e-commerce transaction records, including customer purchases, product information, payment methods, referral sources, and order statuses.
@@ -37,3 +37,25 @@ The dataset contains e-commerce transaction records, including customer purchase
 **Dataset Structure**
 - Rows: 1200
 - Columns: 17
+
+**Key Fields**
+1.  OrderID
+2.  Date
+3.  CustomerID
+4.  Product
+5.  Quantity
+6.  UnitPrice
+7.  ShippingAddress
+8.  PaymentMethod
+9.  OrderStatus
+10. TrackingNumber
+13
+ItemsInCart
+14
+CouponCode
+15
+Referral
+16
+Source
+17
+TotalPrice
