@@ -105,8 +105,8 @@ Sales data was analyzed to identify patterns and trends over time.
 The analysis highlighted periods of high and low sales activity and helped identify peak business periods.
 
 **4. Product Performance Analysis**
-Products were analyzed to determine:
 
+Products were analyzed to determine:
 - Best-selling products
 - Highest revenue-generating products
 - Sales volume patterns
@@ -114,6 +114,7 @@ Products were analyzed to determine:
 This provided insight into product demand and profitability.
 
 **5. Customer Behavior Analysis**
+
 Customer purchasing behavior was evaluated using:
 
 - Order frequency
