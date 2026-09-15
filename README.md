@@ -39,23 +39,17 @@ The dataset contains e-commerce transaction records, including customer purchase
 - Columns: 17
 
 **Key Fields**
-1.  OrderID
-2.  Date
-3.  CustomerID
-4.  Product
-5.  Quantity
-6.  UnitPrice
-7.  ShippingAddress
-8.  PaymentMethod
-9.  OrderStatus
-10. TrackingNumber
-13
-ItemsInCart
-14
-CouponCode
-15
-Referral
-16
-Source
-17
-TotalPrice
+- OrderID
+- Date
+- CustomerID
+- Product
+- Quantity
+- Unit_Price
+- Shipping_Address
+- Payment_Method
+- Order_Status
+- Tracking_Number
+- Items_In_Cart
+- Coupon_Code
+- Referral_Source
+- TotalPrice
