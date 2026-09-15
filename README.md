@@ -9,13 +9,13 @@ The insights generated from this project formed the foundation for the SQL analy
 
 ## 🎯 Project Objective
 The primary objectives of this project were to:
--Understand the structure and characteristics of the dataset.
--Calculate descriptive statistics such as mean, median, and counts.
--Identify sales trends and purchasing patterns.
--Detect unusual values and outliers.
--Evaluate customer and product performance.
--Summarize key business findings.
--Prepare analytical insights for reporting and dashboard creation.
+- Understand the structure and characteristics of the dataset.
+- Calculate descriptive statistics such as mean, median, and counts.
+- Identify sales trends and purchasing patterns.
+- Detect unusual values and outliers.
+- Evaluate customer and product performance.
+- Summarize key business findings.
+- Prepare analytical insights for reporting and dashboard creation.
 
 ## 🛠 Tools Used
 - Microsoft Excel
