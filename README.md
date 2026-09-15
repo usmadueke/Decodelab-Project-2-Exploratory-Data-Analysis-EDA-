@@ -65,4 +65,5 @@ The dataset was reviewed to understand:
 - Data types
 - Transaction structure
 - Categorical and numerical fields
+
 This helped determine the most appropriate analytical approach for the EDA process.
