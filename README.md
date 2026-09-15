@@ -180,3 +180,10 @@ The lower revenue recorded in 2025 may be attributed to the fact that the datase
 
 **Management Insight**: ✅ Chairs, Printers and Laptop generated the highest revenue. Chairs achieved the highest revenue partly due to the highest sales volume.
 ✅ Phones and Desk generated the lowest revenue despite being a major product category. Although sold frequently, they tend to generate smaller transaction values.
+
+## Customer Insights
+- Average order values revealed typical spending patterns.
+- Customers exhibited varying purchasing behaviors.
+
+## Marketing Insights
+- Referral sources contributed significantly to revenue generation. Instagram generated the highest total revenue ($275,285.45), contributing approximately 21.8% of total sales while Facebook attracts customers who spend more per transaction with the highest Average Order Value ($1,098.29), indicating higher-value customers.
