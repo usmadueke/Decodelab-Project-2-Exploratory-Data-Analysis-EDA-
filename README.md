@@ -244,15 +244,9 @@ The EDA process transformed raw transactional data into actionable business insi
 - Data Visualization
 - Insight Generation
 
-# 📂 Repository Contents
+# Author
+**Uzoma Madueke**
+ Data Analytics | Decode Labs
 
-📁 Data
-   └── Cleaned Ecommerce Dataset
+Passionate about transforming data into actionable insights through data analysis, visualization, and business intelligence.
 
-📁 Analysis
-   └── EDA Summary
-
-📁 Visualizations
-   └── Charts and Insights
-
-📄 README.md
