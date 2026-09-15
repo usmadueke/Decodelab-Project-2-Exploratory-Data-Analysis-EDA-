@@ -187,3 +187,10 @@ The lower revenue recorded in 2025 may be attributed to the fact that the datase
 
 ## Marketing Insights
 - Referral sources contributed significantly to revenue generation. Instagram generated the highest total revenue ($275,285.45), contributing approximately 21.8% of total sales while Facebook attracts customers who spend more per transaction with the highest Average Order Value ($1,098.29), indicating higher-value customers.
+- Coupon usage also influenced purchasing behavior and sales outcomes. FREESHIP generated the highest revenue ($335,036.99) and highest Average Order Value ($1,070.41). WINTER15 was the least effective among the promotional offers. Customers may perceive shipping costs as a significant barrier to purchase.
+
+## Operational Insights
+- Approximately 1 in every 5 orders was cancelled, representing a cancellation rate of 20.83%. This is the highest among all order statuses and may indicate challenges in the purchasing or fulfillment process.
+- The return rate is also significant at 20.58%, meaning nearly another fifth of all orders were returned after purchase. This could indicate product quality concerns, customer dissatisfaction, inaccurate product descriptions, or delivery-related issues.
+- Only 19.25% of orders were marked as Delivered, which is lower than both the cancellation and return percentages. This suggests that a substantial proportion of potential revenue may not be fully realized.
+- Nearly 20% of orders remain pending, indicating possible delays in order processing, inventory availability, or logistics operations.     
