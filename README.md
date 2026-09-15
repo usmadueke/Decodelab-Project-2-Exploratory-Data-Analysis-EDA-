@@ -246,7 +246,7 @@ The EDA process transformed raw transactional data into actionable business insi
 
 # Author
 **Uzoma Madueke**
- Data Analytics | Decode Labs
+Data Analytics | Decode Labs
 
 Passionate about transforming data into actionable insights through data analysis, visualization, and business intelligence.
 
