@@ -116,7 +116,6 @@ This provided insight into product demand and profitability.
 **5. Customer Behavior Analysis**
 
 Customer purchasing behavior was evaluated using:
-
 - Order frequency
 - Average spending patterns
 - Items purchased per order
@@ -124,30 +123,31 @@ Customer purchasing behavior was evaluated using:
 This helped identify characteristics of customer purchasing habits.
 
 **6. Payment Method Analysis**
-Payment methods were analyzed to determine:
 
+Payment methods were analyzed to determine:
 - Most popular payment method
 - Distribution of payment options among customers
 
 The results provided insights into customer payment preferences.
 
 **7. Referral Source Analysis**
-Referral channels were examined to identify:
 
+Referral channels were examined to identify:
 - Most effective referral source
 - Revenue contribution by referral category
 
 This helped assess marketing channel performance.
 
 **8. Coupon Usage Analysis**
-Coupon-related fields were analyzed to determine:
 
+Coupon-related fields were analyzed to determine:
 - Frequency of coupon usage
 - Sales generated with coupons
 - Sales generated without coupons
 - Impact of promotional activities on revenue
 
 **9. Order Status Analysis**
+
 Order statuses were analyzed to evaluate operational performance.
 **Status Categories**
 - Delivered
