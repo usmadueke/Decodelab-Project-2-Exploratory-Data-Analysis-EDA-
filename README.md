@@ -18,13 +18,13 @@ The primary objectives of this project were to:
 -Prepare analytical insights for reporting and dashboard creation.
 
 ## 🛠 Tools Used
--Microsoft Excel
+- Microsoft Excel
 - Excel formulas & Functions
 - Pivot Tables 
--Pivot Charts 
--Descriptive Statistics
--Conditional Formatting
--IQR outlier analysis
--Exploratory Data Analysis
--Data Validation
--Data Visualization Techniques
+- Pivot Charts 
+- Descriptive Statistics
+- Conditional Formatting
+- IQR outlier analysis
+- Exploratory Data Analysis
+- Data Validation
+- Data Visualization Techniques
