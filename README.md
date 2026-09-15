@@ -60,6 +60,7 @@ The dataset contains e-commerce transaction records, including customer purchase
 ## 🔍 Exploratory Data Analysis Process
 
 **1. Data Familiarization**
+
 The dataset was reviewed to understand:
 - Available variables
 - Data types
@@ -69,6 +70,7 @@ The dataset was reviewed to understand:
 This helped determine the most appropriate analytical approach for the EDA process.
 
 **2. Descriptive Statistics**
+
 Basic statistical measures were calculated to summarize the dataset.
 
 **Measures Analyzed**
@@ -91,6 +93,7 @@ Basic statistical measures were calculated to summarize the dataset.
 These metrics provided a general understanding of sales performance and customer purchasing behavior.
 
 **3. Trend Analysis**
+
 Sales data was analyzed to identify patterns and trends over time.
 
 **Areas Investigated**
