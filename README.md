@@ -197,3 +197,6 @@ The lower revenue recorded in 2025 may be attributed to the fact that the datase
 
 ## Trend Insights
 - Monthly performance trends revealed that **June** recorded the highest number of orders (147) which translated to the month with the highest revenue ($170,616.13), making it the busiest sales month. June represents the peak demand period, while **January** recorded the highest **Average Order Value** ($1,172.77).
+
+# 📊 Visualizations Created
+The following visualizations were used during the EDA process:
